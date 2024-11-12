@@ -4,6 +4,7 @@ SF = 720
 
 
 def tennis_ranking_list(tournament_count, points):
+    # count points
     points_earned = 0
     race_earned = 0
 
