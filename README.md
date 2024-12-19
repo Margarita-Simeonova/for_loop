@@ -1,8 +1,7 @@
 # for_loop
 ## Start with loops
 
-### For loop - lab
+# For loop - lab
 
-# Tasks:
-
+### Tasks:
 
