@@ -27,3 +27,9 @@ Write a program that reads a number n entered by the user and prints the even po
 
 Write a program that reads a positive integer n entered by the user and prints the numbers from n to 1 in reverse order. The entered number n will always be greater than 1.
 
+########
+
+05. Character Sequence
+
+Write a program that reads text (string) entered by the user and prints each character of the text on a separate line.
+
