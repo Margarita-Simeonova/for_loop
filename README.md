@@ -45,3 +45,15 @@ letter a e i o u
 value  1 2 3 4 5
 
 ########
+
+07. Sum Numbers:
+
+To write a program that reads n-th number of integers entered by the user and sums them.
+
+· The number of numbers n is entered from the first line of the input.
+
+· One whole number is entered from the next n lines.
+
+The program must read the numbers, add them, and print the sum.
+
+########
