@@ -70,3 +70,10 @@ Write a program that reads 2*n number of user-supplied integers and checks wheth
 
 ########
 
+10. Odd Even Sum:
+
+Write a program that reads n-th number of integers supplied by the user and checks whether the sum of the numbers in even positions is equal to the sum of the numbers in odd positions. If there is a tie, print two lines:
+
+"Yes" and on a new line "Sum = " + the sum; 
+
+otherwise print "No" and on a new line "Diff = " + the difference. The difference is calculated in absolute value.
