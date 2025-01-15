@@ -33,3 +33,15 @@ Write a program that reads a positive integer n entered by the user and prints t
 
 Write a program that reads text (string) entered by the user and prints each character of the text on a separate line.
 
+########
+
+06. Vowels Sum:
+
+
+To write a program that reads text (string) entered by the user and calculates and prints the sum of the vowel values ​​according to the table below:
+
+letter a e i o u
+
+value  1 2 3 4 5
+
+########
