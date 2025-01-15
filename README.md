@@ -57,3 +57,6 @@ To write a program that reads n-th number of integers entered by the user and su
 The program must read the numbers, add them, and print the sum.
 
 ########
+
+08. Number sequence:
+
