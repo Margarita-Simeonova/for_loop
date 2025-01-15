@@ -81,3 +81,13 @@ Write a program that reads n-th number of integers supplied by the user and chec
 "Yes" and on a new line "Sum = " + the sum; 
 
 otherwise print "No" and on a new line "Diff = " + the difference. The difference is calculated in absolute value.
+
+
+## For Loop - Exercise
+
+01. Numbers Ending in 7:
+
+Write a program that prints the numbers in the range [1…1000] that end in 7.
+
+########
+
