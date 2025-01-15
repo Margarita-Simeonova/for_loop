@@ -60,3 +60,7 @@ The program must read the numbers, add them, and print the sum.
 
 08. Number sequence:
 
+Write a program that reads n number of integers. Print the largest and smallest number among those entered.
+
+########
+
