@@ -98,3 +98,16 @@ Write a program that reads n-th number of integers entered by the user and check
 If there is such an element, print "Yes" and on a new line "Sum = " + its value
     
 If there is no such element, print "No" and on a new line "Diff = " + the difference between the largest element and the sum of the others (by absolute value)
+
+########
+
+03. Histogram:
+
+Given n integers in the interval [1…1000]. Of these, some percentage p1 are below 200, another percentage p2 are from 200 to 399, another percentage p3 are from 400 to 599, another percentage p4 are from 600 to 799 and the remaining p5 percentage are from 800 and up. To write a program that calculates and prints the percentages p1, p2, p3, p4 and p5.
+
+Input:
+The first line of the input contains the integer n (1 ≤ n ≤ 1000) – number of numbers. On the next n lines there is one whole number in the interval [1...1000] - the numbers on which the histogram should be calculated.
+
+
+Output:
+Print the histogram to the console - 5 lines, each containing a number between 0% and 100%, to two decimal places, eg 25.00%, 66.67%, 57.14%.
