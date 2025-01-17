@@ -111,3 +111,39 @@ The first line of the input contains the integer n (1 ≤ n ≤ 1000) – number
 
 Output:
 Print the histogram to the console - 5 lines, each containing a number between 0% and 100%, to two decimal places, eg 25.00%, 66.67%, 57.14%.
+
+########
+
+04. Clever Lily:
+
+Lily is now N years old. For every birthday she gets a present. 
+
+• For odd birthdays (1, 3, 5...n) he gets toys.
+
+• For even birthdays (2, 4, 6...n) he receives money. 
+
+For the second birthday, he receives BGN 10.00, and the amount increases by BGN 10.00 for each subsequent even birthday (2 -> 10, 4 -> 20, 6 -> 30...etc.). Over the years, Lily has secretly saved the money. Lily's brother, in the years that she receives money, takes BGN 1.00 from them. Lily sold the toys received in the years, each for P leva and added the amount to the money saved. With the money, she wanted to buy a washing machine for BGN X. Write a program to calculate how much money she has collected and whether she has enough to buy a washing machine.
+
+Input:
+
+The program reads 3 numbers entered by the user on separate lines:
+
+• Lily's age - an integer
+
+• The price of the washing machine - float
+
+• Unit price of a toy - an integer
+
+Output:
+
+To print one line to the console:
+
+• If Lily's money is enough:
+
+◦ "Yes! {N}" - where N is the remaining money after the purchase
+
+• If the money is not enough:
+
+◦ "No! {M}" - where M is the amount missing
+
+The numbers N and M must be formatted to the second decimal place.
