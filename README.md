@@ -118,9 +118,9 @@ Print the histogram to the console - 5 lines, each containing a number between 0
 
 Lily is now N years old. For every birthday she gets a present. 
 
-• For odd birthdays (1, 3, 5...n) he gets toys.
+• For odd birthdays (1, 3, 5...n) she gets toys.
 
-• For even birthdays (2, 4, 6...n) he receives money. 
+• For even birthdays (2, 4, 6...n) she receives money. 
 
 For the second birthday, he receives BGN 10.00, and the amount increases by BGN 10.00 for each subsequent even birthday (2 -> 10, 4 -> 20, 6 -> 30...etc.). Over the years, Lily has secretly saved the money. Lily's brother, in the years that she receives money, takes BGN 1.00 from them. Lily sold the toys received in the years, each for P leva and added the amount to the money saved. With the money, she wanted to buy a washing machine for BGN X. Write a program to calculate how much money she has collected and whether she has enough to buy a washing machine.
 
