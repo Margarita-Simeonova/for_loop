@@ -147,3 +147,30 @@ To print one line to the console:
 ◦ "No! {M}" - where M is the amount missing
 
 The numbers N and M must be formatted to the second decimal place.
+
+########
+
+05. Salary:
+
+Given n-number of integers in the interval [1…1000]. Of these, some percentage p1 are divisible by 2 without a remainder, another percentage p2 are divisible by 3 without a remainder, another percentage p3 are divisible by 4 without a remainder. Write a program that calculates and prints the percentages p1, p2 and p3.
+Example: we have n = 10 numbers: 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
+
+2
+680, 2, 600, 200, 800, 46, 128
+7
+p1 = 7 / 10 * 100 = 70.00%
+3
+600
+1
+p2 = 1 / 10 * 100 = 10.00%
+4
+680, 600, 200, 800, 128
+5
+p3 = 5 / 10 * 100 = 50.00%
+
+Input:
+
+The first line of the input contains the integer n (1 ≤ n ≤ 1000) - the number of numbers. On the next n lines there is one whole number in the interval [1...1000] - the numbers to be checked into how many they are divisible.
+
+Output:
+
