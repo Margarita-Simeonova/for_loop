@@ -174,3 +174,10 @@ The first line of the input contains the integer n (1 ≤ n ≤ 1000) - the numb
 
 Output:
 
+Print to the console 3 lines, each containing a percentage between 0% and 100%, to two decimal places, eg 25.00%, 66.67%, 57.14%
+
+On the first line - the percentage of numbers divisible by 2
+
+On the second line - the percentage of numbers that are divisible by 3
+
+On the third row - the percentage of numbers that are divisible by 4
