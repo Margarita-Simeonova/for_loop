@@ -181,3 +181,6 @@ On the first line - the percentage of numbers divisible by 2
 On the second line - the percentage of numbers that are divisible by 3
 
 On the third row - the percentage of numbers that are divisible by 4
+
+########
+
