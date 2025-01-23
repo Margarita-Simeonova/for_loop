@@ -83,7 +83,7 @@ Write a program that reads n-th number of integers supplied by the user and chec
 otherwise print "No" and on a new line "Diff = " + the difference. The difference is calculated in absolute value.
 
 
-## For Loop - Exercise
+# For Loop - Exercise
 
 01. Numbers Ending in 7:
 
