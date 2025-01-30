@@ -184,3 +184,21 @@ On the third row - the percentage of numbers that are divisible by 4
 
 ########
 
+06. Oscars:
+
+A company boss notices that more and more employees are spending time on sites that distract them.
+To prevent this, he introduces surprise checks on the open tabs of his employees' browsers. Depending on the site, various fines are imposed:
+
+• "Facebook" -> 150 BGN
+
+• "Instagram" -> 100 BGN
+
+• "Reddit" -> 50 BGN
+
+Two lines are read from the console:
+
+• Number of open tabs in the browser n - integer
+• Salary - number in the interval [500...1500]
+Then n - the number of times the name of the website is read - text
+If during the check the salary becomes less than or equal to 0 BGN, the console displays
+"You have lost your salary." and the program ends. Otherwise, after the check, the console displays the remaining salary.
