@@ -197,8 +197,10 @@ To prevent this, he introduces surprise checks on the open tabs of his employees
 
 Two lines are read from the console:
 
-• Number of open tabs in the browser n - integer
+• Number of open tabs in the browser n - integer`
+
 • Salary - number in the interval [500...1500]
+
 Then n - the number of times the name of the website is read - text
 If during the check the salary becomes less than or equal to 0 BGN, the console displays
 "You have lost your salary." and the program ends. Otherwise, after the check, the console displays the remaining salary.
