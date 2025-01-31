@@ -10,8 +10,8 @@ def oscars(actor_name, academy_points, members_count):
 
     if academy_points > 1250.5:
         return f"Congratulations, {actor_name} got a nominee for leading role with {academy_points:.1f}!"
-    else:
-        return f"Sorry, {actor_name} you need {1250.5 - academy_points:.1f} more!"
+  
+    return f"Sorry, {actor_name} you need {1250.5 - academy_points:.1f} more!"
 
 
 actor_name = input()
