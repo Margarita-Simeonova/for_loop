@@ -204,3 +204,40 @@ Two lines are read from the console:
 Then n - the number of times the name of the website is read - text
 If during the check the salary becomes less than or equal to 0 BGN, the console displays
 "You have lost your salary." and the program ends. Otherwise, after the check, the console displays the remaining salary.
+
+########
+
+06. Operations Between Numbers:
+
+Write a program that reads two integers (N1 and N2) and an operator to perform a given mathematical operation. The possible operations are: Addition(+), Subtraction(-), Multiplication(*), Division(/) and Modular Division(%.) When adding, subtracting and multiplying, the result and whether it is even or odd should be printed on the console. In the case of ordinary division - the result. In the case of modular division - the remainder. It should be borne in mind that the divisor can be equal to 0 (zero), and division by zero is not possible. In this case, a special message should be printed.
+
+Input:
+
+3 lines entered by the user are read from the console:
+
+• N1 - integer;
+
+• N2 - integer;
+
+• Operator - one symbol from: "+", "-", "*", "/", "%".
+
+Output:
+
+Print one line to the console:
+
+• If the operation is addition, subtraction, or multiplication:
+
+◦ "{N1} {operator} {N2} = {result} - {even/odd}"
+
+• If the operation is division:
+
+◦ "{N1} / {N2} = {result}" - result, formatted to the second decimal place
+
+• If the operation is modular division:
+
+◦ "{N1} % {N2} = {remainder}"
+
+• In case of division by 0 (zero):
+
+◦ "Cannot divide {N1} by zero"
+
