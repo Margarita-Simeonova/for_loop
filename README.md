@@ -249,4 +249,21 @@ To print 5 lines on the console, each of which contains a percentage between 0.0
 
 08. Tennis Ranklist:
 
-   
+   Grigor Dimitrov is a tennis player whose next goal is to climb the world rankings in men's tennis.
+During the year, Grisho participates in a certain number of tournaments, and for each tournament he receives points that depend on the position he finished in the tournament. There are three options for completing a tournament:
+• W - if he is the winner he receives 2000 points
+• F - if he is a finalist he receives 1200 points
+• SF - if he is a semi-finalist he receives 720 points
+Write a program that calculates how many points Grigor will have after playing all the tournaments, knowing how many points he started the season with. Also calculate how many points he wins on average from all the tournaments he played and what percentage of the tournaments he won.
+Input
+First, two lines are read from the console:
+• Number of tournaments in which he participated – integer in the interval [1…20]
+• Initial number of points in the ranking list – integer in the interval [1...4000]
+A separate line is read for each tournament:
+• Stage reached in the tournament – ​​text – "W", "F" or "SF"
+Output
+Three lines are printed in the following format:
+• "Final points: {number of points after the tournaments played}"
+• "Average points: {average points won per tournament}"
+• "{percentage of tournaments won}%"
+Average points should be rounded down to the nearest integer, and the percentage should be formatted to the second digit after the decimal point.
